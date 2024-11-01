@@ -7,77 +7,67 @@
 
 ---
 
-## Media Memorability Prediction
-- CVPR, 2023 [**Modular Memorability: Tiered Representations for Video Memorability Prediction**](https://openaccess.thecvf.com/content/CVPR2023/html/Dumont_Modular_Memorability_Tiered_Representations_for_Video_Memorability_Prediction_CVPR_2023_paper.html)
+## Papers
 
+### Media Memorability Prediction
 
-- **Overview of the MediaEval 2022 Predicting Video Memorability Task**  
-  *Lorin Sweeney, Mihai Gabriel Constantin, Claire-Hélène Demarty, et al.* arXiv, 2022.  
-  [Paper](https://arxiv.org/abs/2212.06516)  
-  Summarizes efforts and benchmarks for predicting video memorability.  
+- [**Long-Term Ad Memorability: Understanding & Generating Memorable Ads**](https://arxiv.org/abs/2309.00378)
+  *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
+  **Multimodal, Video, Speech, Image**
+
+- [**Modular Memorability: Tiered Representations for Video Memorability Prediction**](https://openaccess.thecvf.com/content/CVPR2023/html/Dumont_Modular_Memorability_Tiered_Representations_for_Video_Memorability_Prediction_CVPR_2023_paper.html)
+  *Théo Dumont, Juan Segundo Hevia, Camilo L. Fosco.* (CVPR, 2023)
   **Modality**: Video
 
-- **Image Memorability Prediction Using Depth and Motion Cues**  
-  *Sathisha Basavaraju, Arijit Sur.* IEEE Transactions on Computational Social Systems, 2020.  
-  [Paper](https://doi.org/10.1109/TCSS.2020.2973172)  
-  Leverages depth and motion for image memorability prediction.  
-  **Modality**: Image
-
-- **Videomem: Constructing, Analyzing, Predicting Short-Term and Long-Term Video Memorability**  
-  *Romain Cohendet, Claire-Hélène Demarty, Ngoc QK Duong, Martin Engilberge.* IEEE/CVF International Conference on Computer Vision, 2019.  
-  [Paper](https://doi.org/10.1109/ICCV.2019.00263)  
-  Explores temporal and semantic factors in video memorability.  
+- [**Overview of the MediaEval 2022 Predicting Video Memorability Task**](https://ceur-ws.org/Vol-3583/paper17.pdf)
+  *Lorin Sweeney, Mihai Gabriel Constantin, Claire-Hélène Demarty, et al.* (MediaEval, 2022)
   **Modality**: Video
 
-- **Defining Image Memorability Using the Visual Memory Schema**  
-  *Erdem Akagunduz, Adrian G Bors, Karla K Evans.* IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.  
-  [Paper](https://doi.org/10.1109/TPAMI.2019.2904959)  
-  Presents a visual memory schema for understanding image memorability.  
+- [**Image Memorability Prediction Using Depth and Motion Cues**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007618)
+  *Sathisha Basavaraju, Arijit Sur.* (IEEE Transactions on Computational Social Systems, 2020)
   **Modality**: Image
 
-- **Show and Recall: Learning What Makes Videos Memorable**  
-  *Sumit Shekhar, Dhruv Singal, Harvineet Singh, et al.* IEEE ICCV Workshops, 2017.  
-  [Paper](https://doi.org/10.1109/ICCVW.2017.320)  
-  Discusses learning-based techniques for video memorability.  
+- [**Videomem: Constructing, Analyzing, Predicting Short-Term and Long-Term Video Memorability**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cohendet_VideoMem_Constructing_Analyzing_Predicting_Short-Term_and_Long-Term_Video_Memorability_ICCV_2019_paper.pdf)
+  *Romain Cohendet, Claire-Hélène Demarty, Ngoc QK Duong, Martin Engilberge.* (ICCV, 2019)
   **Modality**: Video
 
-- **Learning Computational Models of Video Memorability from fMRI Brain Imaging**  
-  *Junwei Han, Changyuan Chen, et al.* IEEE Transactions on Cybernetics, 2014.  
-  [Paper](https://doi.org/10.1109/TCYB.2014.2329078)  
-  Combines brain imaging data with video memorability research.  
+- [**Defining Image Memorability Using the Visual Memory Schema**](https://pubmed.ncbi.nlm.nih.gov/31056491/)
+  *Erdem Akagunduz, Adrian G Bors, Karla K Evans.* (TPAMI, 2019)
+  **Modality**: Image
+
+- [**Show and Recall: Learning What Makes Videos Memorable**](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w40/Shekhar_Show_and_Recall_ICCV_2017_paper.pdf)
+  *Sumit Shekhar, Dhruv Singal, Harvineet Singh, et al.* (ICCV Workshops, 2017)
   **Modality**: Video
 
-- **Relative Spatial Features for Image Memorability**  
-  *Jongpil Kim, Sejong Yoon, Vladimir Pavlovic.* ACM Multimedia, 2013.  
-  Investigates spatial features in images contributing to memorability.  
+- [**Learning Computational Models of Video Memorability from fMRI Brain Imaging**](https://pubmed.ncbi.nlm.nih.gov/25314715/)
+  *Junwei Han, Changyuan Chen, et al.* (Transactions on Cybernetics, 2014)  
+  **Modality**: Video
+
+- [**Relative Spatial Features for Image Memorability**](https://dl.acm.org/doi/10.1145/2502081.2502198)
+  *Jongpil Kim, Sejong Yoon, Vladimir Pavlovic.* (ACM MM, 2013)
   **Modality**: Image
 
-- **What Makes a Photograph Memorable?**  
-  *Phillip Isola, Jianxiong Xiao, Antonio Torralba, Aude Oliva.* IEEE Transactions on Pattern Analysis and Machine Intelligence, 2013.  
-  [Paper](https://doi.org/10.1109/TPAMI.2013.200)  
-  Explores image-specific factors influencing memorability.  
+- [**What Makes a Photograph Memorable?**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6629991)
+  *Phillip Isola, Jianxiong Xiao, Antonio Torralba, Aude Oliva.* (TPAMI, 2013)
   **Modality**: Image
 
-- **The Intrinsic Memorability of Face Photographs**  
-  *Wilma A Bainbridge, Phillip Isola, Aude Oliva.* Journal of Experimental Psychology: General, 2013.  
+- [**The Intrinsic Memorability of Face Photographs**](https://pubmed.ncbi.nlm.nih.gov/24246059/)
+  *Wilma A Bainbridge, Phillip Isola, Aude Oliva.* (Journal of Experimental Psychology: General, 2013)
   [Paper](https://doi.org/10.1037/a0033872)  
   Analyzes memorability attributes specific to face images.  
   **Modality**: Image
 
-- **The MediaEval Emotional Impact of Movies Task**  
-  *Emmanuel Dellandréa, Liming Chen, Mats Sjoberg, et al.* CEUR Workshop Proceedings, 2016.  
-  [Paper](https://ceur-ws.org/Vol-1609/)  
-  Studies audio-visual memorability by examining the emotional impact of movie scenes.  
-  **Modality**: Video, Audio
-
 ## Memorable Media Generation
 
-- **How to Make an Image More Memorable? A Deep Style Transfer Approach**  
-  *Aliaksandr Siarohin, Gloria Zen, Cveta Majtanovic, et al.* ACM International Conference on Multimedia Retrieval, 2017.  
-  [Paper](https://doi.org/10.1145/3078971.3078987)  
-  Uses style transfer techniques to enhance image memorability.  
+- [**How to Make an Image More Memorable? A Deep Style Transfer Approach**](https://dl.acm.org/doi/10.1145/3078971.3078986)
+  *Aliaksandr Siarohin, Gloria Zen, Cveta Majtanovic, et al.* (ICMR, 2017)
   **Modality**: Image
+
+- [**Long-Term Ad Memorability: Understanding & Generating Memorable Ads**](https://arxiv.org/abs/2309.00378)
+  *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
+  **Multimodal, Video, Speech, Image**
 
 ## Contributing
 
 We welcome contributions! Please follow the [contribution guidelines](CONTRIBUTING.md) to submit new findings to media memorability.
+You can create a PR to add/modify/delete your entry, open to suggesntions
