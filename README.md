@@ -73,9 +73,6 @@
 
 - [**The Intrinsic Memorability of Face Photographs**](https://pubmed.ncbi.nlm.nih.gov/24246059/)
   *Wilma A Bainbridge, Phillip Isola, Aude Oliva.* (Journal of Experimental Psychology: General, 2013)
-  [Paper](https://doi.org/10.1037/a0033872)  
-  
-  Analyzes memorability attributes specific to face images.  
   
   **Modality**: Image
 
