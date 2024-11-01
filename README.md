@@ -9,6 +9,19 @@
 
 ## Papers
 
+### Memorable Media Generation
+- [**Long-Term Ad Memorability: Understanding & Generating Memorable Ads**](https://arxiv.org/abs/2309.00378)
+
+  *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
+
+  **Modality** Multimodal, Video, Speech, Image
+  
+- [**How to Make an Image More Memorable? A Deep Style Transfer Approach**](https://dl.acm.org/doi/10.1145/3078971.3078986)
+  
+  *Aliaksandr Siarohin, Gloria Zen, Cveta Majtanovic, et al.* (ICMR, 2017)
+  
+  **Modality**: Image
+
 ### Media Memorability Prediction
 
 - [**Long-Term Ad Memorability: Understanding & Generating Memorable Ads**](https://arxiv.org/abs/2309.00378)
@@ -75,20 +88,6 @@
   *Wilma A Bainbridge, Phillip Isola, Aude Oliva.* (Journal of Experimental Psychology: General, 2013)
   
   **Modality**: Image
-
-## Memorable Media Generation
-
-- [**How to Make an Image More Memorable? A Deep Style Transfer Approach**](https://dl.acm.org/doi/10.1145/3078971.3078986)
-  
-  *Aliaksandr Siarohin, Gloria Zen, Cveta Majtanovic, et al.* (ICMR, 2017)
-  
-  **Modality**: Image
-
-- [**Long-Term Ad Memorability: Understanding & Generating Memorable Ads**](https://arxiv.org/abs/2309.00378)
-
-  *Harini S I, Somesh Singh, Yaman K Singla, Aanisha Bhattacharyya, Veeky Baths, Changyou Chen, Rajiv Ratn Shah, Balaji Krishnamurthy* (WACV 2025)
-
-  **Modality** Multimodal, Video, Speech, Image
 
 ## Contributing
 
