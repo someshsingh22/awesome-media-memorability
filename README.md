@@ -1,20 +1,15 @@
 # Awesome Media Memorability [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 🤩 An AWESOME Curated List of Papers, Workshops, Datasets, and Challenges in Media Memorability
 
----
-
 ## Contents
-- [Media Memorability Prediction](#memorability-prediction)
-- [Memorable Media Generation](#memorability-generation)
+- [Media Memorability Prediction](#media-memorability-prediction)
+- [Memorable Media Generation](#memorable-media-generation)
 
 ---
 
-## Memorability Prediction
-- **Modular Memorability: Tiered Representations for Video Memorability Prediction**  
-  *Théo Dumont, Juan Segundo Hevia, Camilo L. Fosco.* CVPR, 2023.  
-  [Paper](https://doi.org/10.1109/CVPR.2023.10751)  
-  Introduces tiered models for video memorability prediction.  
-  **Modality**: Video
+## Media Memorability Prediction
+- CVPR, 2023 [**Modular Memorability: Tiered Representations for Video Memorability Prediction**](https://openaccess.thecvf.com/content/CVPR2023/html/Dumont_Modular_Memorability_Tiered_Representations_for_Video_Memorability_Prediction_CVPR_2023_paper.html)
+
 
 - **Overview of the MediaEval 2022 Predicting Video Memorability Task**  
   *Lorin Sweeney, Mihai Gabriel Constantin, Claire-Hélène Demarty, et al.* arXiv, 2022.  
@@ -75,27 +70,13 @@
   Studies audio-visual memorability by examining the emotional impact of movie scenes.  
   **Modality**: Video, Audio
 
-## Memorable Content Generation
+## Memorable Media Generation
 
 - **How to Make an Image More Memorable? A Deep Style Transfer Approach**  
   *Aliaksandr Siarohin, Gloria Zen, Cveta Majtanovic, et al.* ACM International Conference on Multimedia Retrieval, 2017.  
   [Paper](https://doi.org/10.1145/3078971.3078987)  
   Uses style transfer techniques to enhance image memorability.  
   **Modality**: Image
-
-- **Memcat: A New Category-Based Image Set Quantified on Memorability**  
-  *Lore Goetschalckx, Johan Wagemans.* PeerJ, 2019.  
-  [Paper](https://doi.org/10.7717/peerj.8169)  
-  Provides a dataset of images categorized by memorability, useful for generative models.  
-  **Modality**: Image
-
-- **GANalyze: Toward Visual Definitions of Cognitive Image Properties**  
-  *Lore Goetschalckx, Alex Andonian, Aude Oliva, Phillip Isola.* IEEE/CVF International Conference on Computer Vision, 2019.  
-  [Paper](https://doi.org/10.1109/ICCV.2019.00589)  
-  Utilizes GANs to define and modify image properties impacting memorability.  
-  **Modality**: Image
-
---- 
 
 ## Contributing
 
